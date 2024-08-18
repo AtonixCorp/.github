@@ -34,7 +34,7 @@ We invite DevOps professionals, data enthusiasts, and technology innovators to j
 
 ### How to Connect
 
-•⁠  ⁠*Join Our Community*: Follow us on [GitHub](https://github.com/atonixcorp) to stay updated on our projects and initiatives.
+•⁠  ⁠*Join Our Community*: Follow us on [GitHub](https://gitLAB.com/atonixcorp) to stay updated on our projects and initiatives.
 •⁠  ⁠*Contact Us*: For inquiries, collaborations, or to learn more about how you can get involved, please reach out to us at [contact@atonixcorp.com](mailto:contact@atonixcorp.com).
 
 ---
