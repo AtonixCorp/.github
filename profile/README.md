@@ -5,11 +5,11 @@ Welcome to the AtonixCorp Project! This is a community-driven social media platf
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](https://github.com/AtonixCorpCommunity/commuinty_Features/edit/main/README.md)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Project Structure](https://github.com/AtonixCorpCommunity/commuinty_Features/edit/main/README.md)
-- [Contributing](#contributing)
+- [Project Structure](https://github.com/AtonixCorpCommunity/project_structure/blob/main/README.md)
+- [Contributing](https://github.com/AtonixCorpCommunity/Atonixcorpcommunity_contribution/edit/main/README.md)
 - [Community](#community)
 - [License](#license)
 
@@ -82,9 +82,15 @@ We invite DevOps professionals, data enthusiasts, and technology innovators to j
 
 ### How to Connect
 
-•⁠  ⁠*Join Our Community*: Follow us on [GitHub](https://gitLAB.com/atonixcorp) to stay updated on our projects and initiatives.
-•⁠  ⁠*Contact Us*: For inquiries, collaborations, or to learn more about how you can get involved, please reach out to us at [contact@atonixcorp.com](mailto:contact@atonixcorp.com).
+•⁠  ⁠*Join Our Community*:
+## Community
 
----
+Join the AtonixCorp community and stay connected!
+
+- Twitter: [@AtonixCorp](https://x.com/AtonixCorp)
+- GitHub: [AtonixCorp on GitHub](https://github.com/AtonixCorpCommunity)
+- Discord: [Join our Discord server](https://discord.gg/tcqPRJPw) 
+- LinkedIn: [AtonixCorp on LinkedIn](https://www.linkedin.com/groups/9558643/) 
+- Slack: [AtonixCorp on Slack](https://atonixcorpcommunity.slack.com)
 
 Thank you for your interest in AtonixCorp. Let's push the boundaries of technology together!
