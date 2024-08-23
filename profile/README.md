@@ -1,4 +1,4 @@
-markdown
+
 # AtonixCorp Project
 
 Welcome to the AtonixCorp Project! This is a community-driven social media platform designed to foster connections, share ideas, and collaborate on projects. Our goal is to create an engaging and inclusive environment where developers and users can thrive.
