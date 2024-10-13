@@ -1,7 +1,7 @@
 
 # AtonixCorp Project
 
-Welcome to the AtonixCorp Project! This is a community-driven social media platform designed to foster connections, share ideas, and collaborate on projects. Our goal is to create an engaging and inclusive environment where developers and users can thrive.
+AtonixCorp is a pioneering enterprise specializing in cutting-edge technology solutions across agriculture, fintech, and medical research. Our focus is on empowering industries to thrive in an increasingly digital world.
 
 ## Table of Contents
 
